@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "卵と牛乳とレコード",
   "base_artist": "セブンス・ベガ",
-  "createdAt": "2026-03-19T05:05:39.005777Z",
+  "createdAt": "2026-03-19T05:06:25.592594Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "セブンス・ベガ",
       "has_synced": false,
       "path": "select/pl_01_卵と牛乳とレコード_セブンス・ベガ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "卵と牛乳とレコード",
+      "artist": "セブンス・ベガ",
+      "has_synced": false,
+      "path": "select/localdb_01_卵と牛乳とレコード_セブンス・ベガ.txt",
+      "repo_name": "7pmJ9ZI_H3Y"
     }
   ]
 }
